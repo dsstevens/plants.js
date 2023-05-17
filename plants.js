@@ -6,3 +6,4 @@ if (gets_sunshine === true && ounces_of_water >= 10){
     console.log("The plant will die!")
 }
 
+new content 
